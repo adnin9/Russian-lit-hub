@@ -24,4 +24,16 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+    overflow:hidden;
 }
+
+img{
+  height: 470px;
+  width: 450px;
+}
+
+.quote h1{
+  font-size: 22px;
+  font-family: 'Playfair Display', cursive;
+  font-weight: bold;
+  }
